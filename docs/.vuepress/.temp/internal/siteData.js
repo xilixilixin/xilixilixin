@@ -1,4 +1,4 @@
-export const siteData = JSON.parse("{\"base\":\"/xilixili/\",\"lang\":\"en-US\",\"title\":\"XiLiXiLi\",\"description\":\"XiLi小站，专注编程知识分享\",\"head\":[],\"locales\":{}}")
+export const siteData = JSON.parse("{\"base\":\"/xilixilixin/\",\"lang\":\"en-US\",\"title\":\"XiLiXiLi\",\"description\":\"XiLi小站，专注编程知识分享\",\"head\":[],\"locales\":{}}")
 
 if (import.meta.webpackHot) {
   import.meta.webpackHot.accept()
